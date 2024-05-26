@@ -1,0 +1,2 @@
+# fundamentos_IA
+Piedrahita_Carolina_Script_Semana2
